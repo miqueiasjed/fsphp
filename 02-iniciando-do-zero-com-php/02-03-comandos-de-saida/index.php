@@ -53,7 +53,7 @@ $array = [
 
 print_r($array);
 
-echo "<pre>", print_r($array,true),"</pre>";
+echo "<pre>", print_r($array, true),"</pre>";
 
 
 /**
